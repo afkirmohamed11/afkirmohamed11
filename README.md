@@ -1,6 +1,4 @@
-# Mohamed Afkir's Personal Repo
-
-👋 Hi, I’m Mohamed Afkir (@afkirmohamed)
+👋 Hi, I’m Mohamed Afkir (@afkirmohamed11)
 
 👀 I’m deeply interested in data and IT, with a particular focus on data engineering and data science.
 
